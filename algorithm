@@ -1,0 +1,6 @@
+Take a string as an input.
+Declare two variables pointing to the first and last index of the string.
+Swap the characters at their places and increment variables pointing to first character and decrement variable pointing to last character.
+Do it until the first variable is less than the second one
+Print the reversed string(could add another condition to check if it's a pallindrome or not by just checking the reversed string with the original one)
+End the program
